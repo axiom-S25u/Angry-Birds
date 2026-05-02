@@ -8,10 +8,13 @@
 	},
 	"id": "axiom.angry-birds",
 	"name": "Angry Birds",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Axiom",
 	"tags": ["joke", "interface", "offline"],
 	"description": "yeet ur icons at green pigs lmao",
+	"links": {
+		"community": "https://discord.gg/TWn99qzmUA"
+	},
 	"resources": {
 		"files": [
 			"resources/*.mp3",
